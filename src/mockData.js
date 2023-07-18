@@ -9,7 +9,7 @@ export const data = [
 
       timeList: [
         { day: 'Montag', start: '09:00', end: '18:00' },
-        { day: 'Dienstah', start: '09:00', end: '18:00' },
+        { day: 'Dienstag', start: '09:00', end: '18:00' },
         { day: 'Mittwoch', start: '09:00', end: '18:00' },
         { day: 'Donnerstag', start: '09:00', end: '18:00' },
         { day: 'Freitag', start: '09:00', end: '18:00' },
@@ -26,7 +26,7 @@ export const data = [
       link:"https://www.muenchen.de/sehenswuerdigkeiten/top-sehenswuerdigkeiten/frauenkirche",
       timeList: [
         { day: 'Montag', start: '08:00', end: '20:00' },
-        { day: 'Dienstah', start: '08:00', end: '20:00' },
+        { day: 'Dienstag', start: '08:00', end: '20:00' },
         { day: 'Mittwoch', start: '08:00', end: '20:00'},
         { day: 'Donnerstag', start: '08:00', end: '20:00' },
         { day: 'Freitag', start: '08:00', end: '20:00' },
@@ -44,7 +44,7 @@ export const data = [
 
       timeList: [
         { day: 'Montag', start: '09:00', end: '17:00' },
-        { day: 'Dienstah', start: '09:00', end: '17:00' },
+        { day: 'Dienstag', start: '09:00', end: '17:00' },
         { day: 'Mittwoch', start: '09:00', end: '17:00' },
         { day: 'Donnerstag',start: '09:00', end: '17:00' },
         { day: 'Freitag', start: '09:00', end: '17:00' },
